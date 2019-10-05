@@ -7,5 +7,5 @@ CREATE TABLE `login`.`usuario` (
   `senha` VARCHAR(32) NOT NULL,
   PRIMARY KEY (`usuario_id`));
 
-INSERT INTO `usuario` (`usuario_id`,`usuario`,`senha`) VALUES (1,'canalti','10f722b5984a49bce67d434464fae37e');
-INSERT INTO `usuario` (`usuario_id`,`usuario`,`senha`) VALUES (2,'pedrinho','202cb962ac59075b964b07152d234b70');
+INSERT INTO `usuario` (`usuario_id`,`usuario`,`senha`) VALUES (1,'canalti','123456');
+INSERT INTO `usuario` (`usuario_id`,`usuario`,`senha`) VALUES (2,'pedrinho','123456');
