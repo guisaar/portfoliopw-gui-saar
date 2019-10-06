@@ -86,6 +86,9 @@ if (hora1 > 0  &&hora1 <= 12 ) {
 fundo.style.background = "url('a4.jpg')"
 fundo.style.backgroundSize = "contain "
 fundo.style.backgroundSize = "100%"
+fundotop.style.background = "url('MANHA.jpg')"
+fundotop.style.backgroundSize = "contain "
+fundotop.style.backgroundSize = "100%"
 }
 else if (hora1 > 12 && hora1 <= 18 ) {
 
@@ -93,6 +96,9 @@ else if (hora1 > 12 && hora1 <= 18 ) {
 fundo.style.background = "url('a5.jpg')"
 fundo.style.backgroundSize = "contain "
 fundo.style.backgroundSize = "100%"
+fundotop.style.background = "url('TARDE.jpg')"
+fundotop.style.backgroundSize = "contain "
+fundotop.style.backgroundSize = "100%"
 }
 else if (hora1 > 18 && hora1 <= 24 ) {
 
@@ -100,6 +106,9 @@ else if (hora1 > 18 && hora1 <= 24 ) {
 fundo.style.background = "url('a2.jpg')"
 fundo.style.backgroundSize = "contain "
 fundo.style.backgroundSize = "100%"
+fundotop.style.background = "url('NOITE.jpg')"
+fundotop.style.backgroundSize = "contain "
+fundotop.style.backgroundSize = "100%"
   
 }
 var ou = document.getElementById('Hora') 
