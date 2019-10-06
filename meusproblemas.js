@@ -50,6 +50,7 @@ var myVar = setInterval(AgoraHora, 60);
 	
 function AgoraHora() {
 var fundo = document.getElementById('body') 
+var fundotop = document.getElementById('topo') 
 var pwallpapaer = 0
 var hora = 0
 var Sec = 0
