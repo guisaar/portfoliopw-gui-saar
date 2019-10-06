@@ -45,21 +45,9 @@ include('verifica_login.php');
 	
 	
 	
-<div id="qza"><img src="nome5.png" width="100%"></div>
-		<div class="menu">
-		<ul>
-
-  
-  <li><a href="">Home</a></li>
-   <li><a class="active" href="">Filmes</a></li>
-   <li><a class="active" href="">Sessões</a></li>
- <li><a href="">Conta</a></li>
-  <li><a class="active2" href="">Lanches</a></li>
-</ul>
-
-	   </div> </header>	
+</header>	
 	   <div id="meio">
-	   <div id="meio3"></div>
+	  
 	   <div id="Titulo"><h1 class="T1">Até a proximaaaa</h1><br></div>
 	   <div id="meio31"></div><div id="Gzaa">
 	   <div id="meio4">
