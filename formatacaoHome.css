@@ -202,13 +202,16 @@ padding: 0% ;
 }
 
 
+          
             #topo{
                 width: 100%; /*largura*/
                 height: 30%; /*altura*/
                 /*alinhamento do texto*/
                 clear: both; /*não permite elementos flutuantes ao lado*/
                 background-color:#000000a1; /*#f7df8f;/* #dccbb5;/*rgb(136, 206, 250); /*cor de fundo*/
-			
+			Background-image:url("NOITE.jpg"); /*#dccbb5;/*rgb(219, 255, 255);/*rgb(224, 245, 246); 	*/
+background-size:contain;
+background-size:100%;
             }
 			
 			
